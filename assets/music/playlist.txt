@@ -1,0 +1,13 @@
+# filename|display name
+# User-supplied music tracks (converted to OGG/Vorbis).
+user-hajola-01.ogg|هجولة مغربية - زعبيطة
+user-hajola-02.ogg|قوليلي قوليلي
+user-remix-03.ogg|دي جي طرقوش - ريمكس
+user-sheila-04.ogg|الرد قاسي - شيلة ريمكس
+user-sheila-05.ogg|سرها يا هاجسي
+desert-drift.ogg|NOVA DESERT DRIFT
+arabic-electro.ogg|ARABIC ELECTRO
+night-cruise.ogg|NIGHT CRUISE
+coast-chill.ogg|COASTLINE CHILL
+street-hiphop.ogg|STREET HIP HOP
+rally-energy.ogg|RALLY ENERGY
